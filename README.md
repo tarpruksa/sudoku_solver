@@ -11,3 +11,4 @@ animate.py is the code for animation appear when it completely solve the puzzle.
 
 Feel free to use and edit, since this is my first ever project it might not be perfect but it teach me a lot :)
 
+![My Image](image1.png)
